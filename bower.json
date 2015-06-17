@@ -1,0 +1,22 @@
+{
+  "name": "ikariam-massive-calulator",
+  "version": "0.0.0",
+  "authors": [
+    "Rogelio Meza <rogelio.meza.t@gmail.com>"
+  ],
+  "description": "Massive calculator for fleets",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "fontawesome": "~4.3.0",
+    "bootstrap": "~3.3.5"
+  }
+}
